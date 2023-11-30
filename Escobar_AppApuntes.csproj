@@ -48,6 +48,7 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
+<<<<<<< HEAD
 	<ItemGroup>
 	  <None Remove="Resources\Images\icon_about.png" />
 	  <None Remove="Resources\Images\icon_about_ios.png" />
@@ -67,4 +68,6 @@
 	  </MauiXaml>
 	</ItemGroup>
 
+=======
+>>>>>>> a1677e9617f60d1e16fbccb6443a427c4ebb6207
 </Project>
